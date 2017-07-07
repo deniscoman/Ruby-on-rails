@@ -2,83 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="822bf161-7a16-49ba-8613-66a7c5d1d0d2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hello_app/README.md" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/Rakefile" afterPath="$PROJECT_DIR$/Rakefile" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/app/assets/config/manifest.js" afterPath="$PROJECT_DIR$/app/assets/config/manifest.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/app/assets/images/.keep" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/app/assets/javascripts/cable.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/cable.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/app/assets/javascripts/channels/.keep" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/app/channels/application_cable/channel.rb" afterPath="$PROJECT_DIR$/app/channels/application_cable/channel.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/app/channels/application_cable/connection.rb" afterPath="$PROJECT_DIR$/app/channels/application_cable/connection.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/app/controllers/concerns/.keep" afterPath="$PROJECT_DIR$/tmp/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/app/helpers/application_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/app/jobs/application_job.rb" afterPath="$PROJECT_DIR$/app/jobs/application_job.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/app/mailers/application_mailer.rb" afterPath="$PROJECT_DIR$/app/mailers/application_mailer.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/app/models/application_record.rb" afterPath="$PROJECT_DIR$/app/models/application_record.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/app/models/concerns/.keep" afterPath="$PROJECT_DIR$/test/models/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/app/views/layouts/mailer.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.html.erb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/app/views/layouts/mailer.text.erb" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.text.erb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/bin/bundle" afterPath="$PROJECT_DIR$/bin/bundle" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/bin/rails" afterPath="$PROJECT_DIR$/bin/rails" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/bin/rake" afterPath="$PROJECT_DIR$/bin/rake" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/bin/setup" afterPath="$PROJECT_DIR$/bin/setup" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/bin/spring" afterPath="$PROJECT_DIR$/bin/spring" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/bin/update" afterPath="$PROJECT_DIR$/bin/update" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config.ru" afterPath="$PROJECT_DIR$/config.ru" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/application.rb" afterPath="$PROJECT_DIR$/config/application.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/boot.rb" afterPath="$PROJECT_DIR$/config/boot.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/cable.yml" afterPath="$PROJECT_DIR$/config/cable.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/environment.rb" afterPath="$PROJECT_DIR$/config/environment.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/environments/development.rb" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/environments/production.rb" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/environments/test.rb" afterPath="$PROJECT_DIR$/config/environments/test.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/initializers/application_controller_renderer.rb" afterPath="$PROJECT_DIR$/config/initializers/application_controller_renderer.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/initializers/assets.rb" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/initializers/backtrace_silencers.rb" afterPath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/initializers/cookies_serializer.rb" afterPath="$PROJECT_DIR$/config/initializers/cookies_serializer.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/initializers/filter_parameter_logging.rb" afterPath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/initializers/inflections.rb" afterPath="$PROJECT_DIR$/config/initializers/inflections.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/initializers/mime_types.rb" afterPath="$PROJECT_DIR$/config/initializers/mime_types.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/initializers/new_framework_defaults.rb" afterPath="$PROJECT_DIR$/config/initializers/new_framework_defaults.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/initializers/session_store.rb" afterPath="$PROJECT_DIR$/config/initializers/session_store.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/initializers/wrap_parameters.rb" afterPath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/locales/en.yml" afterPath="$PROJECT_DIR$/config/locales/en.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/puma.rb" afterPath="$PROJECT_DIR$/config/puma.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/secrets.yml" afterPath="$PROJECT_DIR$/config/secrets.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/config/spring.rb" afterPath="$PROJECT_DIR$/config/spring.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/db/seeds.rb" afterPath="$PROJECT_DIR$/db/seeds.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/lib/assets/.keep" afterPath="$PROJECT_DIR$/test/mailers/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/lib/tasks/.keep" afterPath="$PROJECT_DIR$/test/integration/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/log/.keep" afterPath="$PROJECT_DIR$/test/helpers/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/public/404.html" afterPath="$PROJECT_DIR$/public/404.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/public/422.html" afterPath="$PROJECT_DIR$/public/422.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/public/500.html" afterPath="$PROJECT_DIR$/public/500.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/public/apple-touch-icon-precomposed.png" afterPath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/public/apple-touch-icon.png" afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/public/favicon.ico" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/public/robots.txt" afterPath="$PROJECT_DIR$/public/robots.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/test/controllers/.keep" afterPath="$PROJECT_DIR$/test/fixtures/files/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/test/fixtures/.keep" afterPath="$PROJECT_DIR$/test/fixtures/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/test/fixtures/files/.keep" afterPath="$PROJECT_DIR$/test/controllers/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/test/helpers/.keep" afterPath="$PROJECT_DIR$/log/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/test/integration/.keep" afterPath="$PROJECT_DIR$/lib/tasks/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/test/mailers/.keep" afterPath="$PROJECT_DIR$/lib/assets/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/test/models/.keep" afterPath="$PROJECT_DIR$/app/models/concerns/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/test/test_helper.rb" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/tmp/.keep" afterPath="$PROJECT_DIR$/app/controllers/concerns/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/vendor/assets/javascripts/.keep" afterPath="$PROJECT_DIR$/app/assets/javascripts/channels/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello_app/vendor/assets/stylesheets/.keep" afterPath="$PROJECT_DIR$/app/assets/images/.keep" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -102,8 +26,8 @@
       <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+            <state relative-caret-position="255">
+              <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -148,6 +72,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/hello_app/Gemfile" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -347,7 +272,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499415399416</updated>
-      <workItem from="1499415400977" duration="2410000" />
+      <workItem from="1499415400977" duration="2993000" />
     </task>
     <task id="LOCAL-00001" summary="specify ruby version">
       <created>1499419711592</created>
@@ -356,16 +281,31 @@
       <option name="project" value="LOCAL" />
       <updated>1499419711592</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="move app in root folder">
+      <created>1499420043461</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1499420043461</updated>
+    </task>
+    <task id="LOCAL-00003" summary="remove ruby version from gemfile">
+      <created>1499420138480</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1499420138480</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2410000" />
+    <option name="totallyTimeSpent" value="2993000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -421,7 +361,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="specify ruby version" />
-    <option name="LAST_COMMIT_MESSAGE" value="specify ruby version" />
+    <MESSAGE value="move app in root folder" />
+    <MESSAGE value="remove ruby version from gemfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove ruby version from gemfile" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -462,8 +404,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        <state relative-caret-position="255">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
           <folding />
         </state>
       </provider>
